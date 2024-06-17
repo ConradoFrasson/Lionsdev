@@ -1,0 +1,26 @@
+usuario030@PC10:~/Área de Trabalho/Atividade$ mkdir EstacaoEspacial
+usuario030@PC10:~/Área de Trabalho/Atividade$ cd EstacaoEspacial
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial$ mkdir habitacao
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial$ mkdir Laboratorio
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial$ mkdir Hangar
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial$ cd habitacao
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial/habitacao$ touch quarto1.txt
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial/habitacao$ touch quarto2.txt
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial/habitacao$ touch quarto3.txt
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial/habitacao$ cd ..
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial$ cd Laboratorio
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial/Laboratorio$ touch pesquisa1.txt
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial/Laboratorio$ touch pesquisa2.txt
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial/Laboratorio$ cd ..
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial$ cd Hangar
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial/Hangar$ touch espaco1.txt
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial/Hangar$ touch espaco2.txt
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial/Hangar$ touch espaco3.txt
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial/Hangar$ cd ..
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial$ rm -r Hangar
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial$ touch boasvindas.txt
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial$ echo "Bem Vindos a Estação Espacial"> boasvindas.txt
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial$ cp boasvindas.txt Laboratorio
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial$ echo "Bem Vindos à Estação Espacial, Este é o Laboratório"> boasvindas.txt
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial$ touch Atividade1.txt
+usuario030@PC10:~/Área de Trabalho/Atividade/EstacaoEspacial$ 
