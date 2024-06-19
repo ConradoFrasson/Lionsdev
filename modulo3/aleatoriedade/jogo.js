@@ -8,7 +8,7 @@ process.stdin.once('data', function(data) {
 })
     function dado(numeros) {
 
-        console.log(`O dado caiu no numero: ${Math.floor(Math.random() * numeros) + 2}`)
+        console.log(`O dado caiu no numero: ${Math.floor(Math.random() * numeros) + 1}`)
     }
 
     // Quem fez a atividade: Conrado e Andressa.
